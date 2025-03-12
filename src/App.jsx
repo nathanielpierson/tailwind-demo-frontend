@@ -1,6 +1,6 @@
 import axios from "axios";
 import { Header } from "./Header";
-import { PhotosPage } from "./BossesPage";
+import { BossesPage } from "./BossesPage";
 import { Footer } from "./Footer";
 
 axios.defaults.baseURL = "http://localhost:3000";
